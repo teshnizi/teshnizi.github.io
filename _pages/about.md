@@ -37,4 +37,3 @@ Hello!
 
 Of course! Feel free to shoot me an email at [teshnizi@stanford.edu](mailto:teshnizi@stanford.edu). I'd also love to chat about anything else that you find related and interesting!
 
-<!-- Why is it one updatebehind? -->
