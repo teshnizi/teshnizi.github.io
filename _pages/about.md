@@ -14,7 +14,8 @@ Hello!
     I'm a PhD student in Management Science & Engineering at Stanford, working with [Prof. Madeleine Udell](https://people.orie.cornell.edu/mru8/). Previously, I completed a master's degree in Computer Science at University of Toronto, and did my undergrad in Computer Engineering at Sharif University of Technology.
 
 <h2>My Research</h2>
-    I'm interested in using machine learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
+ 
+    I'm interested in using machine learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
 
 <h3> That was a bunch of fancy terms, but what does it mean exactly? </h3>
 
