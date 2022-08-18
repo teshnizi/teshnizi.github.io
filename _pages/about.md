@@ -6,11 +6,44 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello!
 
-A data-driven personal website
+    I'm a PhD student in Management Science & Engineering at Stanford, working with [Prof. Madeleine Udell](https://people.orie.cornell.edu/mru8/). Previously, I completed my MSc in Computer Science at University of Toronto, and did my undergrad in Computer Engineering at Sharif University.
+
+<h3>My Research</h3>
+    I'm interested in using machine learning to tackle constrained optimization problems. Right now I'm working on methods that leverage graph neural networks and reinforcement learning to solve contrained optimization problems on graphs.
+
+<h4> That was a bunch of fancy terms, but what does it mean exactly? </h4>
+
+    Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods (NP problems are a good example).
+
+    Neural networks are good at extracting complicated patterns from high-dimensional data. We can use Graph Neural Networks (GNNs) to embed the graphical information into numerical representations, feed those to an RL model, and ask the model to generate a solution by maximizing/minimizing an objective of interest. 
+
+<h4>It sounds cool! Is it of any use?</h4>
+
+    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. The pros and cons make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges of this approach. Making all of the modules work together can also be tricky.
+
+Some examples of real-world applications are:
+* Supply Chain Management
+* Grid Optimization
+* Social Media Marketing
+* Circuit Design
+* Network Optimization 
+
+<h4>I need to maximize/minimize something on a graph. Can we talk?</h4>
+
+Of course! Feel free to shoot me an email at [teshnizi@stanford.edu](mailto:teshnizi@stanford.edu). I'd also love to chat about anything else that you find related and interesting!
+
+
+<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +81,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
