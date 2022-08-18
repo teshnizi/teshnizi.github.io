@@ -17,13 +17,13 @@ Hello!
  
     I use Machine Learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
 
-<h3> That was a bunch of fancy terms, but what does it mean exactly? </h3>
+<h3> That was a bunch of fancy terms, what does it mean exactly? </h3>
 
     Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods ([NP Problems](https://www.britannica.com/science/NP-complete-problem) are a good example).
 
     Neural networks are good at extracting complicated patterns from high-dimensional data. We can use GNNs to embed the graphical information into numerical representations, feed those to an RL model, and ask the model to generate a solution by maximizing/minimizing an objective of interest. 
 
-<h3>It sounds cool! Is it of any use?</h3>
+<h3>It sounds cool! But is it actually useful?</h3>
 
     This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. The pros and cons make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges of this approach. Making all of the modules work together can also be tricky.
 
