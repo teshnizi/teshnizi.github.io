@@ -26,7 +26,7 @@ Hello!
 
 <h3>It sounds cool! But is it actually useful?</h3>
 
-    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges of this approach. Making all of the modules work together can also be tricky.
+    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges. Making all of the modules work together can also be tricky.
 
     Some examples of real-world applications are:
 * Supply Chain Management
