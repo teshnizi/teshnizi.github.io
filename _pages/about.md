@@ -39,5 +39,5 @@ Hello!
 
 <h3>I want to maximize/minimize something on a graph. Can we talk?</h3>
 
-Of course! Feel free to shoot me an email at [teshnizi@stanford.edu](mailto:teshnizi@stanford.edu). I'd also love to chat about anything else that you find related and interesting!
+    Of course! Feel free to shoot me an email at [teshnizi@stanford.edu](mailto:teshnizi@stanford.edu). I'd also love to chat about anything else that you find related and interesting!
 
