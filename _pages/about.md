@@ -16,7 +16,7 @@ Hello!
 
 <h2>My Research Interests</h2>
  
-    I use Machine Learning to tackle constrained optimization problems. Currently, I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve constrained optimization problems on graphs.
+    I use Machine Learning to tackle Constrained Optimization problems. Currently, I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve Constrained Optimization problems on graphs.
 
 <h3> That was a bunch of fancy terms. What does it mean exactly? </h3>
 
