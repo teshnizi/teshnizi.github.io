@@ -32,6 +32,8 @@ Hello!
 * Social Media Marketing
 * Circuit Design
 * Network Optimization 
+    
+![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO.png)
 
 <h3>I want to maximize/minimize something on a graph. Can we talk?</h3>
 
