@@ -18,7 +18,7 @@ Hello!
  
     I use Machine Learning to tackle Constrained Optimization problems. Currently, I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve Constrained Optimization problems on graphs.
 
-<h3> That was a bunch of fancy terms. What does it mean exactly? </h3>
+<h3> That was a bunch of fancy (?) terms. What does it mean exactly? </h3>
 
     Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods ([NP Problems](https://www.britannica.com/science/NP-complete-problem) are a good example).
 
