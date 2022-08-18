@@ -15,7 +15,7 @@ Hello!
 
 <h2>My Research Interests</h2>
  
-    I'm interested in using machine learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
+    I use Machine Learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
 
 <h3> That was a bunch of fancy terms, but what does it mean exactly? </h3>
 
