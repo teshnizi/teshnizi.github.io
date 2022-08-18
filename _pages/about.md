@@ -22,7 +22,7 @@ Hello!
 
     Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods ([NP Problems](https://www.britannica.com/science/NP-complete-problem) are a good example).
 
-    Neural networks are good at extracting complicated patterns from high-dimensional data. We can use GNNs to embed the graphical information into numerical representations, feed those to an RL model, and ask the model to generate a solution by maximizing/minimizing an objective of interest. 
+    Neural networks are good at extracting complicated patterns from high-dimensional data. We can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
 
 <h3>It sounds cool! But is it actually useful?</h3>
 
