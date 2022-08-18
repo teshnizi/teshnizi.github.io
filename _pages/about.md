@@ -9,15 +9,16 @@ redirect_from:
 
 ---
 
+
 Hello!
 
-    I'm a PhD student in Management Science & Engineering at Stanford, working with [Prof. Madeleine Udell](https://people.orie.cornell.edu/mru8/). Previously, I completed a master's degree in Computer Science at University of Toronto, and did my undergrad in Computer Engineering at Sharif University of Technology.
+    I'm a PhD student in Management Science & Engineering at Stanford, working with [Prof. Madeleine Udell](https://people.orie.cornell.edu/mru8/). Previously, I completed a master's degree in Computer Science at University of Toronto and did my undergrad in Computer Engineering at Sharif University of Technology.
 
 <h2>My Research Interests</h2>
  
-    I use Machine Learning to tackle constrained optimization problems. Right now I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve contrained optimization problems on graphs.
+    I use Machine Learning to tackle constrained optimization problems. Currently, I'm working on methods that leverage Graph Neural Networks (GNNs) and Reinforcement Learning (RL) to solve constrained optimization problems on graphs.
 
-<h3> That was a bunch of fancy terms, what does it mean exactly? </h3>
+<h3> That was a bunch of fancy terms. What does it mean exactly? </h3>
 
     Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods ([NP Problems](https://www.britannica.com/science/NP-complete-problem) are a good example).
 
@@ -25,7 +26,7 @@ Hello!
 
 <h3>It sounds cool! But is it actually useful?</h3>
 
-    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. The pros and cons make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges of this approach. Making all of the modules work together can also be tricky.
+    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges of this approach. Making all of the modules work together can also be tricky.
 
     Some examples of real-world applications are:
 * Supply Chain Management
