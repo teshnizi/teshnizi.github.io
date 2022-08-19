@@ -24,6 +24,8 @@ Hello!
 
     Neural networks are good at extracting complicated patterns from high-dimensional data. Instead of trying to solve these intricate graph problems explicitly, we can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
 
+![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO.png)
+
 <h3>It sounds cool! But is it actually useful?</h3>
 
     This approach is scalable and can result in close-to-optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges. Making all of the modules work together can also be tricky.
@@ -35,7 +37,6 @@ Hello!
 * Circuit Design
 * Network Optimization 
     
-![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO.png)
 
 <h3>I want to maximize/minimize something on a graph. Can we talk?</h3>
 
