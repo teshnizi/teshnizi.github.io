@@ -24,7 +24,7 @@ Hello!
 
     Neural networks are good at extracting complicated patterns from high-dimensional data. Instead of trying to solve these intricate graph problems explicitly, we can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
 
-![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO.png)
+![Graph Learning and Reinforcement Learning for Constrained Combinatorial Optimization](../images/GNN_RL_for_CO_2.png)
 
 <h3>It sounds cool! But is it actually useful?</h3>
 
