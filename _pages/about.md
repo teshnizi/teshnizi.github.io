@@ -22,13 +22,13 @@ Hello!
 
     Graph-structured data is abundant around us, and we've been modeling and solving real-world problems with graphs for decades. We've already developed optimal and fast solutions to a subset of these problems. However, some others are too hard, complicated, or time-consuming to solve using explicit mathematical and algorithmic methods ([NP Problems](https://www.britannica.com/science/NP-complete-problem) are a good example).
 
-    Neural networks are good at extracting complicated patterns from high-dimensional data. We can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
+    Neural networks are good at extracting complicated patterns from high-dimensional data. Instead of trying to solve these intricate graph problems explicitly, we can use GNNs to embed graphical information into numerical representations, feed those to an RL model, and tune the model to generate a solution by maximizing/minimizing an objective of interest. 
 
 <h3>It sounds cool! But is it actually useful?</h3>
 
-    This approach is scalable and can result in close to optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges. Making all of the modules work together can also be tricky.
+    This approach is scalable and can result in close-to-optimal results. It, however, is not fully interpretable and lacks optimality guarantees. These characteristics make it a perfect fit for a subgroup of graph optimization problems, but not for all of them. Proper modeling of the input information, expressive architecture design, and problem-specific constraint enforcement are some of the challenges. Making all of the modules work together can also be tricky.
 
-    Some examples of real-world applications are:
+    Here is a list of some domains where this approach can be useful:
 * Supply Chain Management
 * Grid Optimization
 * Social Media Marketing
